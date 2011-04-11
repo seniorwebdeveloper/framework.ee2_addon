@@ -11,8 +11,8 @@ class Base_model extends CI_Model {
 
 	public function __construct()
 	{
-		parent::CI_Model();
-		$this->EE =& get_instance();
+		parent::__construct();
+		$this->EE = get_instance();
 	}
 	
 	/**
