@@ -5,7 +5,7 @@ require_once PATH_THIRD.'addon/config.php';
 /**
  * 
  *
- * @package Pundit
+ * @package Addon
  **/
 class Base_model extends CI_Model {
 
@@ -79,4 +79,4 @@ class Base_model extends CI_Model {
 }
 
 // End File base_model.php
-// File Source /system/expressionengine/third_party/addon/models/base_moddelADDON_.php
+// File Source /system/expressionengine/third_party/addon/models/base_model.php

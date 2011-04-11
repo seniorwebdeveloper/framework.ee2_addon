@@ -16,4 +16,4 @@ class Addon
 }
 
 // End File mod.addon.php
-// File Source /system/expressionengine/third_party/pundit/mod.addon.php
+// File Source /system/expressionengine/third_party/addon/mod.addon.php
